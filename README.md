@@ -1,2 +1,2 @@
 # IBIS
-Indian Bird Identification System (IBIS).
+Indian Bird Identification System (IBIS)
